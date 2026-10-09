@@ -19,7 +19,7 @@ def get(url):
     with urllib.request.urlopen(req, timeout=25) as resp:
         return resp.read()
 def clean(s):
-    return re.sub(r"\\s+", " ", s or "").strip()
+    return re.sub(r"\s+", " ", s or "").strip()
 def main():
     data = json.loads(DATA.read_text(encoding="utf-8"))
     existing = {j.get("id") for j in data.get("jobs", [])}
