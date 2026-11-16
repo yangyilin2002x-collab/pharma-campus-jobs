@@ -1,139 +1,7 @@
 {
-  "updatedAt": "2026-11-16T06:30:40.455533+00:00",
+  "updatedAt": "2026-11-16T22:02:19.535006+00:00",
   "note": "公开2027届招聘岗位及方向 + 企业目录。未核实小红书用户实际投递记录；具体岗位请核对原始来源。",
   "jobs": [
-    {
-      "id": "news-e782ad2a92584989",
-      "company": "招聘线索（请核验企业）",
-      "title": "瑞普生物 2027 届全球校园招聘活动在我校举办 - 中国农业大学新闻网",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FT2piaHJ2bWlFQjdDOGR3YnpTR29DS01pRnpsT0Q2NElrcHVFZWJ6MG8tbHdXemp4cVZwbFdTTVVhQ3BVQnZkejNLX0Fja3JjRXBuUHJSc2dPcHpzYklkU1Bjck9MSEZzVC1uYjJ4Q0NFNTQ?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-93f7463124afcf29",
-      "company": "招聘线索（请核验企业）",
-      "title": "中汽中心2027届提前批校园招聘正式启动 - 京报网",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ucGFHM0NyeEZHVldaT19FZGtPdUE1aE4waWE4RjFKMkFRak9SVUxyWUR5eTNLeHZhc3dIdEVNaXRfbnlKNWJxV3pRcGtBRnd6UlZRWlZIa2RvTjJiOHpyems4TGU0akNBQmdfUWdwSmZ2UQ?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-c8b9200a7c722831",
-      "company": "招聘线索（请核验企业）",
-      "title": "逾6300名学子参加 “千校万岗”首场招聘，大学生就业引航活动季在沪启动 - 上观新闻",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuS21uME90eEd3bmVhM3M5clVpUEVDZWprREpQbm1wcjYwbDhzVVEyeDlGSng4RTQ5NlEtU0R6NnBXRnpfNlNDb1BneUVtNjNaR2N5X1BKUVhkQQ?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Thu, 15 Oct 2026 07:00:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-6b23ca02136d2320",
-      "company": "招聘线索（请核验企业）",
-      "title": "星辰英才，等你来！航天科技集团2027校招提前批正式启动 - 京报网",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40NzR4R3hfWWVhMUI1S0dHV0tpOFkzaC0xTlNaamZtYVpYZHYtMkNBVXBIZndBOWtJZlRZV0hoLXJBbUJzMEZTX3lUT3BPcTJ6UW44aGh4dWoxX3A5d3ZRLUFaMF9LQS1rMUFkeDVxZFliZw?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-5d6d1ef855d18ecd",
-      "company": "招聘线索（请核验企业）",
-      "title": "广西举办2027届医药健康产业类高校毕业生就业双向选择洽谈会 - 新华网",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2c1pyUnlHZld6YXNPZy1yaEhRTWZqNGZYX28zbVlPTFJXSkZMU2pkMDZLd1NoNzc3eDBkRnd4VHZrbW54aDk1c3JHYmhZckVIMVNxbDd2eTZtT0NpMENRSWJFcUFrdHhrSDZrWXJZak4tVVdOSm9ZZUJlSQ?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Sun, 08 Nov 2026 02:45:08 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-bde5c24b647c93c6",
-      "company": "招聘线索（请核验企业）",
-      "title": "江西省2027届高校毕业生医药产业链专场就业招聘会举行 - 凤凰网",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RVDJEcnBCdnZKaE5JeDFQaHd0ZnJxc1pITFA5WC1CZGI3aU05UVhDTjVkQjRiQTFnd1JCT0VFeFNHbVBSLVpsUHV3?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Sun, 08 Nov 2026 00:07:21 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-2f79863c8f926097",
-      "company": "招聘线索（请核验企业）",
-      "title": "基层医疗机构对人才需求大！2027届上海高校毕业生医药人才专场招聘会举行 - 劳动观察",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUl3UC1JQk1zb3owc2tLSEVxeVZvT2IzLUNRSVpvekpEZ1hwYTFjbWlaRFNNQXEtNzdSMUlMWXFmaVZvdmxuUlozaFljV05LN2NLMzFlSEJRYVpNYVlJcUdlZU9GLTNsOUF1S3YxYWphY08zTmRoUEppTXBhcWJZU0RB?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Wed, 14 Oct 2026 08:20:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-702d186356073fd7",
-      "company": "招聘线索（请核验企业）",
-      "title": "2027届毕业生秋季双选会举行 - 四川农业大学新闻网",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zYk1XRDhKT1JwczcxaS1vN3Qwa3A1UmU2ZWI2ZXUzS0ZLQ3d0a0pTSWhnMHoxYW5Vb0dSUE5hZnZiSlUzck9EMUFoMzFWNzJTN3hoZGx0RjhHZw?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-b60d46670c82bc37",
-      "company": "招聘线索（请核验企业）",
-      "title": "闽南科技学院举办2027届毕业生秋季校园招聘会_未来网高校 - 人民日报-有品质的新闻",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BRjU5OWRkYVpoTkJxZTY1UkRZVzVXTWs2R3RudkZBUjlVUzBLdEEzZmI0SGlpbG9JOGlSQ3lmOHFzQjIwUktYeDNNNjJ3NDljUUF2STJSM1BNaV83?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Wed, 04 Nov 2026 12:10:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-cc09c67cf1b5b405",
-      "company": "招聘线索（请核验企业）",
-      "title": "向2027届释放用人需求4万多个，上海高校大型秋招两天连开两场 - 上观新闻",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRVRQOWZFSVJoa1NQMzVGS3hFbVpGUWlyMkp1LXB6RDVGUXhySVN5Tlg2eDNzRGpmY01nMkMxWlBCOEZ3VWk1T1ktTzhrMEVMemw4NG1MWXV5UQ?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
-    {
-      "id": "news-0ecdaccc7a342c9e",
-      "company": "招聘线索（请核验企业）",
-      "title": "2027届上海高校毕业生秋季校园现场招聘会举行 - 新华网",
-      "type": "生命科学/其他",
-      "direction": "综合校招",
-      "sourceType": "公开新闻/RSS线索（非官方岗位页）",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkVEJfOThtOHJtZm1pRExOcmhXYzB0MHF2QXhGVUU0VFFEcUhNbkxHX1Vpa0Vib09FSUxOS0ZNOHJ3N1lPNThJc0VXWndnX2RKNHNKUzRvME5tZmM1SVpJcmR2UzVVcmZ1RTFPMUc0bkg3UkhzeHYw?oc=5",
-      "location": "以原文为准",
-      "publishedAt": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "analysis": "自动发现的公开招聘线索。请打开原文追溯发布企业，再前往企业官方招聘系统核对岗位是否仍开放；此线索不是经过核实的投递岗位。"
-    },
     {
       "id": "verified-2027-1",
       "company": "正大天晴",
@@ -1996,8 +1864,8 @@
     }
   ],
   "lastRun": {
-    "checkedAt": "2026-11-16T06:30:40.455533+00:00",
+    "checkedAt": "2026-11-16T22:02:19.535006+00:00",
     "feedsAttempted": 3,
-    "newLeads": 11
+    "newLeads": 0
   }
 }
